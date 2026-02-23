@@ -1,0 +1,15 @@
+# Chunking
+langchain==0.3.14
+langchain-text-splitters==0.3.4
+
+# Embeddings
+sentence-transformers==3.3.1
+
+# Vector store
+chromadb==0.6.3
+
+# Ollama Python client
+ollama==0.4.4
+
+# Utilities
+tqdm==4.67.1
